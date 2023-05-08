@@ -1,0 +1,194 @@
+<mjml>
+    <mj-head>
+      <mj-attributes>
+        <mj-all font-family="'Nunito', 'Helvetica', 'Arial', sans-serif"></mj-all>
+        <mj-button background-color="#2c408a"></mj-button>
+        <mj-class name="donate-btn" border-radius="5px" font-size="18px" line-height="1.6" padding="0px" width="100%"></mj-class>
+        <mj-class name="donate-col" padding="5px 0px 5px 0px"></mj-class>
+        <mj-class name="donate-grd" padding="0px"></mj-class>
+        <mj-class name="link" color="#324188"></mj-class>
+        <mj-text color="#52453C"></mj-text>
+      </mj-attributes>
+      <mj-style>
+  
+        .link-style {
+        color: "#324188";
+        }
+        @media only screen and (max-width:580px) {
+        .mobile-show {
+        display: block !important;
+        }
+  
+        .mobile-hide {
+        display: none !important;
+        mso-hide: all !important;
+        }
+        }
+        @media only screen and (min-width:580px) {
+        .desktop-show {
+        display: block !important;
+        }
+  
+        .desktop-hide {
+        display: none !important;
+        mso-hide: all !important;
+        }
+        }
+      </mj-style>
+      <mj-font href="https://fonts.googleapis.com/css?family=Nunito:normal,italic,bold&display=swap" name="Nunito"></mj-font>
+    </mj-head>
+    <mj-body background-color="#ffffff">
+      <mj-section background-color="#ffffff" padding-bottom="20px" padding-left="40px" padding-right="40px" padding-top="40px" padding="20px">
+        <mj-column padding="0">
+          <mj-image padding="0px" src="https://impsh.s3.amazonaws.com/assets/emjohnson_for_assembly_logo_dark2x.png" width="256px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" padding-bottom="10px" padding-left="64px" padding-right="64px" padding-top="64px" padding="20px">
+        <mj-column padding="0">
+          <mj-text align="left" font-size="14px" line-height="1.6" padding="0px">
+            *|FNAME|*,
+            <p>My name is Mark Johnson, and I am running for re-election as the Assemblyman for our district. <strong><a href="#" mj-class="link" style="color:#2c3f8a">I am writing to you today because I need your help.</a></strong></p>
+  
+  
+            <p>I have been fighting for our community, passing a bill to increase public safety by adding social workers to first responder teams on domestic violence calls, fighting for more affordable housing units, and as Chair of the Education Committee, advancing better pay for teachers and supported education options in our district.</p>
+  
+  
+            <p>But unfortunately, my opponent is <strong><a href="#" style="color:#2c3f8a">being bankrolled by special interests in Albany</a></strong> who want to stamp out my progressive agenda, and who do not have the best interests of our constituents at heart.</p>
+  
+            <p>But there's good news! New York State has just launched its public campaign finance program, which gives grassroots candidates like myself the ability to be competitive by <strong><a href="#" style="color:#2c3f8a">matching every dollar small donors give, up to $250.</a></strong></p>
+  
+  
+            <p>To qualify for this program, I need 75 donations from different individuals who reside within my district. <strong><a href="#" style="color:#2c3f8a">That's where you come in.</a></strong></p>
+  
+  
+            <p>By donating just $10, $25, or $50, you can help me qualify for the public campaign finance program and give me the resources I need to fight back against big money in politics. And the best part is, your donation will be matched 12x by the program, providing $120, $300 or $600 respectively to my campaign.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-wrapper css-class="desktop-show mobile-hide" padding-right="64px" padding-left="64px">
+        <mj-section mj-class="donate-grd" padding-top="0px" padding-bottom="0px">
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $5</strong>
+            </mj-button>
+          </mj-column>
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $10</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section mj-class="donate-grd" padding-top="0px" padding-bottom="0px">
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $25</strong>
+            </mj-button>
+          </mj-column>
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $50</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section mj-class="donate-grd" padding-top="0px" padding-bottom="0px">
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $100</strong>
+            </mj-button>
+          </mj-column>
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE OTHER</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <mj-wrapper css-class="desktop-hide mobile-show" padding-right="64px" padding-left="64px">
+        <mj-section mj-class="donate-grd" padding-top="0px" padding-bottom="0px">
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $10</strong>
+            </mj-button>
+          </mj-column>
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE $25</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+        <mj-section mj-class="donate-grd" padding-top="0px" padding-bottom="0px">
+          <mj-column padding="10px">
+            <mj-button mj-class="donate-btn">
+              <strong>DONATE OTHER</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <mj-section background-color="#ffffff" padding="0px 64px 0px 64px">
+        <mj-column padding="0">
+          <mj-text align="left" font-size="14px" line-height="1.6" padding="0px">
+            <p>Your donation will help us build a grassroots campaign that can take on the special interests and win. I need your help to make this happen.</p>
+  
+            <p>So please, make your donation today, and let's get big money out of politics.</p>
+            <p>Sincerely,<br />
+              Mark Johnson</p>
+          </mj-text>
+          <mj-image src="https://impsh.s3.amazonaws.com/assets/mark_johnson_signature05x.png" align="left" width="230px" padding="0px 0px 20px 0px" />
+          <mj-text align="left" font-size="14px" line-height="1.6" padding="0px">
+            P.S. Every donation counts, no matter how small. Every dollar helps us get one step closer to our goal of 75 donations and qualifying for the public campaign finance program. Please make your donation today.
+          </mj-text>
+          <mj-divider border-width="1px" border-style="solid" border-color="#324188" padding="30px 0px 10px 0px" />
+  
+        </mj-column>
+      </mj-section>
+      <mj-wrapper>
+        <mj-section background-color="#ffffff" padding="0px 64px 0px 64px">
+          <mj-column padding="0">
+            <mj-text align="center" font-size="12px">If you've saved your payment information with ActBlue Express, your donation will go through immediately:</mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" padding="0px 64px 0px 64px">
+          <mj-column padding="0" width="65%">
+            <mj-button mj-class="donate-btn donate-col">
+              <strong>DONATE $5</strong>
+            </mj-button>
+            <mj-button mj-class="donate-btn donate-col">
+              <strong>DONATE $10</strong>
+            </mj-button>
+            <mj-button mj-class="donate-btn donate-col">
+              <strong>DONATE $25</strong>
+            </mj-button>
+            <mj-button mj-class="donate-btn donate-col">
+              <strong>DONATE $50</strong>
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+      <mj-section background-color="#ffffff" padding-bottom="12px" padding-left="40px" padding-right="40px" padding-top="12px" padding="40px">
+        <mj-column padding="0">
+          <mj-social font-size="15px" icon-padding="25px" icon-size="32px" inner-padding="1px" mode="horizontal" padding="0px">
+            <mj-social-element src="https://impsh.s3.amazonaws.com/icons/Facebook.png" alt="https://www.facebook.com/" background-color="#ffffff" border-radius="0px" href="https://www.facebook.com/" name="facebook-noshare" title="https://www.facebook.com/"></mj-social-element>
+            <mj-social-element src="https://impsh.s3.amazonaws.com/icons/Twitter.png" alt="https://www.twitter.com/" background-color="#ffffff" border-radius="0px" href="https://www.twitter.com/" name="twitter-noshare" title="https://www.twitter.com/"></mj-social-element>
+            <mj-social-element src="https://impsh.s3.amazonaws.com/icons/Instagram.png" alt="https://www.vimeo.com" background-color="#ffffff" href="https://www.vimeo.com" name="vimeo" title="https://www.vimeo.com"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="20px" padding-left="40px" padding-right="40px" padding-top="40px" padding="40px">
+        <mj-column padding="0">
+          <mj-text align="center">Mark Johnson for Assembly<br />
+            2282 Bell Street<br />
+            New York, NY, 10031<br /><br />
+            Contributions by check may be sent to the address above. </mj-text>
+          <mj-spacer height="20px"></mj-spacer>
+          <mj-button background-color="#ffffff" color="#111111" border="1px solid">Paid For By Mark Johnson for Assembly</mj-button>
+          <mj-spacer height="8px"></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="40px">
+        <mj-column padding="0">
+          <mj-text align="center" font-size="13px" line-height="1.5" padding="0px">
+            No longer want to receive these emails? Unsubscribe. </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>

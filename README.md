@@ -8,3 +8,12 @@ The current content is a generic fundraising email for an example campaign, John
 
 
 
+#### Pure HTML
+
+![Johnson for Assembly Desktop HTML](https://res.cloudinary.com/impsh/image/upload/v1683525536/demo/johnson_for_assembly_email_desktop.png)
+
+
+
+#### MJML
+
+![Johnson for Assembly Desktop MJML](https://res.cloudinary.com/impsh/image/upload/v1683525536/demo/johnson_for_assembly_email_desktop.png)
